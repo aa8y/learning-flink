@@ -1,0 +1,15 @@
+# Editor
+*.swo
+*.swp
+.idea
+
+# Misc
+.DS_Store
+
+# Scala
+**/project/
+**/target/
+
+# Spark
+derby.log
+metastore_db/
